@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=0A66C2&center=true&vCenter=true&width=500&lines=vanessa+velella;cybersecurity+%7C+cs+student;welcome+to+my+github" />
 </h1>
----------------------------------------------------------------------------------------------
+
 
 ## About Me
 
