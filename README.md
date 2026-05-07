@@ -1,4 +1,6 @@
-# Vanessa Vel
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=0A66C2&center=true&vCenter=true&width=500&lines=vanessa+velella;cybersecurity+%7C+cs+student;welcome+to+my+github" />
+</h1>
 
 Computer Science and Chemistry student at the University of Toronto, focused on Cybersecurity, IoT systems, Embedded Engineering, and Quantum Computing with a love for chemistry!
 
@@ -70,4 +72,8 @@ Cybersecurity and systems-focused student interested in building secure, efficie
 ---
 
 Connect with me!
-<p align="left"> <a href="https://www.linkedin.com/in/vanessavelella/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vanessavelella/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
