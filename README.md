@@ -10,8 +10,8 @@ Cybersecurity and systems-focused student interested in building secure, efficie
 - Focus on cybersecurity, networking, and system architecture  
 - Experience with Python, C, C++, Java, SQL, and R.
 - Interested in IoT device security and embedded systems  
-- Exploring quantum computing and advanced computation models  
-- Strong interest in building real-world technical systems
+- Exploring quantum computing and advanced computation models on the side!
+- Strong interest in building real-world technical systems.
 
 -----------------------------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ Cybersecurity and systems-focused student interested in building secure, efficie
 
 ---
 
-Connect with me!
+Feel free to connect with me!
 <p align="left">
   <a href="https://www.linkedin.com/in/vanessavelella/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
