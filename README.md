@@ -5,10 +5,10 @@
 
 ## About Me
 
-Cybersecurity and systems-focused student interested in building secure, efficient, and low-level computing systems.
+Currenrlty pursuing Computer Science at UofT, with a great interest in Cybersecurity and systems-focused student interested in building secure, efficient, and low-level computing systems.
 
 - Focus on cybersecurity, networking, and system architecture  
-- Experience with Python, C, C++, Java, SQL, and R.
+- Experience with Python, C, C++, C#, Java, SQL. 
 - Interested in IoT device security and embedded systems  
 - Exploring quantum computing and advanced computation models on the side!
 - Strong interest in building real-world technical systems.
@@ -26,7 +26,7 @@ Cybersecurity and systems-focused student interested in building secure, efficie
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 </p>
 
